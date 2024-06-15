@@ -1,0 +1,19 @@
+{
+  "name": "abdul-rehman-atm-machine",
+  "version": "1.0.6",
+  "main": "atm.js",
+  "type": "module",
+  "bin": "atm.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abdul Rehman",
+  "license": "ISC",
+  "description": "ASSIGNMENT  FROM  GOVERNER  HOUSE  ` ATM  MACGINE `",
+  "dependencies": {
+    "inquirer": "^9.2.23"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
